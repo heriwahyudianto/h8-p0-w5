@@ -1,0 +1,2 @@
+# h8-p0-w5
+Rekursi (Recursion) Kita bisa membuat function yang memanggil dirinya sendiri, disebut recursion. Memungkinkan kita untuk menulis fungsi dengan ekspektasi hasil yang sama namun cara/gayanya berbeda. Ini akan berhubungan nanti tentang bagaimana kita menstrukturkan langkah logika kita, atau algorithm.  Mungkin rekursif bagi sebagian orang menjadi satu hal yang dianggap mengerikan atau membingungkan. Tapi apabila kita sudah mengenal bagaimana cara atau alur dari fungsi rekursif, ketakutan atau kebingungan itu pasti bisa hilang.
